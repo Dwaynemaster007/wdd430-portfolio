@@ -1,7 +1,6 @@
 import ProjectList from '@/components/ProjectList';
 
-// Replace YOUR-USERNAME with your GitHub username.
-const github = 'https://github.com/YOUR-USERNAME';
+const github = 'https://github.com/dwaynemaster007';
 
 const projects = [
   {
