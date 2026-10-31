@@ -2,7 +2,7 @@
 
 My first Next.js application for WDD 430: Web Full-Stack Development. It's a simple portfolio site built with the App Router, TypeScript and Tailwind CSS.
 
-**Live site:** https://YOUR-VERCEL-URL.vercel.app
+**Live site:** https://wdd430-portfolio-mauve-omega.vercel.app/
 
 ## Pages and routes
 
